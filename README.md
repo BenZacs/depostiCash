@@ -28,7 +28,7 @@ git Clone https://github.com/BenZacs/depostiCash.git
     ```
     cd to/your/depositCash
     ```
-    - Go to the test directory and type this command.
+    Go to the test directory and type this command.
     ```
     mvn clean test
     ```
